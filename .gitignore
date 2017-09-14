@@ -1,0 +1,8 @@
+/CarangosTunning
+*.properties
+*.bat
+/build
+*.iml
+/gradle
+gradlew
+settings.gradle
